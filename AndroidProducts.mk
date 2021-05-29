@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/palladium_raphael.mk
+    $(LOCAL_DIR)/awaken_raphael.mk
 
 COMMON_LUNCH_CHOICES := \
-    palladium_raphael-user \
-    palladium_raphael-userdebug \
-    palladium_raphael-eng
+    awaken_raphael-user \
+    awaken_raphael-userdebug \
+    awaken_raphael-eng
